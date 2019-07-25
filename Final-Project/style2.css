@@ -1,0 +1,51 @@
+body {
+    background: rgba(163, 61, 163, 0.856);
+    
+}
+
+h1, h2, p {
+    font-family: 'IBM Plex Mono', monospace;
+}
+#title {
+    text-align: center
+}
+#image-gallery-area img {
+    width: 200px;
+    padding: 50px; 
+    border: solid 2px    
+}
+
+table {
+    border: 2px solid black;
+    padding:0px;
+    
+}
+
+table img {
+    border: 2px solid black;
+    width: 200px;
+}
+
+tr {
+    border: 1px dotted blue;
+    
+
+}
+
+td {
+    border: 1px dashed green;
+}
+
+table {
+    font-size: 12px;
+    text-align: center;
+    
+}
+
+#image-gallery-area {
+    text-align: center
+}
+
+p {
+  text-align: center;  
+}

@@ -1,0 +1,12 @@
+body {
+    background: rgba(180, 3, 180, 0.856);
+}
+.title, h2, p {
+    font-family: 'IBM Plex Mono', monospace;
+}
+#display-image-area img {
+    width: 200px;
+}
+#title {
+    text-align: center;
+}
